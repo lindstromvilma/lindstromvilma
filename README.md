@@ -1,7 +1,7 @@
 - 🤓 Hi, I’m @lindstromvilma
 - 🧠 I’m interested learning new technologies. Frontend development is my thing but I'm also interested in backend development.
 - 🖥️ At the moment I am learning JavaScript frameworks like Vue and React and WordPress development with PHP.
-- 🤝 Currently I’m looking for my first developer job to grow as a developer and work hard as part of development team to achieve mutual goals.
+- 🤝 Currently looking for my first developer job to grow as a developer and work hard as part of development team to achieve mutual goals.
 - ✉️ You can email me on vilma-lindstrom@hotmail.com
 
 <!---
