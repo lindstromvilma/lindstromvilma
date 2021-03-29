@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lindstromvilma
-- 👀 I’m interested in new technologies. Specially frontend development is my thing but I'm also interested in backend development.
-- 🌱 I’m currently learning WordPress development, PHP framework Laravel and JavaScript frameworks like Vue and React.
-- 💞️ I’m looking to collaborate on learning supportive and encouraging environment with enthuastic people.
-- 📫 Email me on vilma-lindstrom@hotmail.com if you have anything to ask.
+- 🤓 Hi, I’m @lindstromvilma
+- 🧠 I’m interested learning new technologies. Frontend development is my thing but I'm also interested in backend development.
+- 🖥️ I’m currently learning WordPress development with PHP and also JavaScript frameworks like Vue and React.
+- 🤝 Currently I’m looking for my first developer job with amazing team which is learning supportive amd enthuastic with new technologies.
+- ✉️ You can email me on vilma-lindstrom@hotmail.com
 
 <!---
 lindstromvilma/lindstromvilma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
