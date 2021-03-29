@@ -1,4 +1,4 @@
-- 🤓 Hi, I’m @lindstromvilma
+- 🤓 Hello there! I’m @lindstromvilma
 - 🧠 I’m interested learning new technologies. Frontend development is my thing but I'm also interested in backend development.
 - 🖥️ At the moment I am learning JavaScript frameworks like Vue and React and WordPress development with PHP.
 - 🤝 Currently looking for my first developer job to grow as a developer and work hard as part of development team.
