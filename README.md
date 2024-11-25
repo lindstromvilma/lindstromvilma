@@ -1,8 +1,16 @@
 - 🤓 Hello there! I’m @lindstromvilma
-- 🧠 I’m interested learning new technologies. Frontend development is my thing but I'm also interested in backend development.
-- 🖥️ At the moment I am learning JavaScript framework React.
-- 🤝 Currently looking for my first developer job to grow as a developer and work hard as part of development team.
-- ✉️ You can email me on vilma-lindstrom@hotmail.com
+    I'm a passionate web developer, always eager to learn and explore new technologies.
+    I enjoy building applications that solve real-world problems and create a great user experience.
+- 🖥️ Skills & Technologies
+    Frontend: HTML, CSS, JavaScript, jQuery, Vue.js
+    Backend: PHP, Laravel, Codeigniter
+    Databases: MySQL, PostgreSQL
+    Tools: Git, GitHub, Docker, Composer, Spark, NPM
+    Passionate about Web Accessibility and responsive design.
+- 🌱 Current Focus
+    Currently, I'm working on enhancing my skills with modern frontend frameworks (like Vue and React) and exploring backend technologies to build more complex, scalable applications.
+- ✉️ You can reach me at
+    Email: vilma-lindstrom@hotmail.com
 
 <!---
 lindstromvilma/lindstromvilma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
